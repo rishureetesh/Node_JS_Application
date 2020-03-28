@@ -1,0 +1,15 @@
+{
+  "name": "Node_JS_Application",
+  "version": "1.0.0",
+  "description": "Reetesh",
+  "main": "server.js",
+  "scripts": {
+    "test": "PWA Applications",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "author": "Reetesh Kumar",
+  "license": "ISC"
+}
