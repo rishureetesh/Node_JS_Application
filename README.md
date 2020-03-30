@@ -3,7 +3,7 @@
 Progressive Web app With  Express server and NodeJS with Docker container 
 
 
-Progressive web app using Vanilla JS, HTML, Bootstrap, CSS
+Progressive web app using NodeJS, HTML, Bootstrap, CSS
 Implementation of PWA
 
 Name : Reetesh Kumar
