@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  web:
+    user: $UID:$GID
+    image:
+      testing_pwa_node
+    ports:
+      - "5000:9005"
+
+
