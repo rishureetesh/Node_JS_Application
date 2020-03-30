@@ -18,8 +18,10 @@ Steps :
 	>>> node sever.js
 
 #The server can be created but it wont work without the localhost, we need something to run it in offline mode.
+
 #The node server will work in the present system only as source code is available in the same system, we need something to make it work in other systems too, that can be done by creating the
 dockerizing the cnontainer.
+
 #We need Docker to Dockerize the container.
 
 Docker Installation :
